@@ -25,7 +25,7 @@ easy - https://www.acmicpc.net/workbook/view/7754<br>
 normal - https://www.acmicpc.net/workbook/view/7755<br>
 hard - https://www.acmicpc.net/workbook/view/7760<br>
 
-### 5. 스택, 큐, 덱
+### 5. 자료구조(스택, 큐, 덱)
 easy - https://www.acmicpc.net/workbook/view/7750<br>
 normal - https://www.acmicpc.net/workbook/view/7751<br>
 hard - https://www.acmicpc.net/workbook/view/7752<br>
