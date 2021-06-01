@@ -2,6 +2,7 @@ comate에서 사용하는 기업 코딩테스트 유형 조합, 문제 선정 �
 
 ## 유형별 문제집 링크<br>
 
+
 ### 0. 기초 구현 문제
 https://www.acmicpc.net/workbook/view/6198<br><br>
 
@@ -81,6 +82,19 @@ https://www.acmicpc.net/workbook/view/7701<br><br>
 ### 1. 삼성 역량 테스트
 https://www.acmicpc.net/workbook/view/7700<br><br>
 
+## (추가) 신입생 전용 문제
+
+### 1. 입출력
+https://www.acmicpc.net/workbook/view/7919<br><br>
+
+### 2. 조건문
+https://www.acmicpc.net/workbook/view/7920<br><br>
+
+### 3. 반복문
+https://www.acmicpc.net/workbook/view/7921<br><br>
+
+### 4. 별찍기
+https://www.acmicpc.net/workbook/view/20<br><br>
 
 # 문제 선정 기준
 
