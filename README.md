@@ -1,6 +1,8 @@
 ### comate에서 사용하는 기업 코딩테스트 유형 조합, 문제 선정 기준을 알려줍니다.<br>
 
 
+
+
 # 문제 선정 기준
 
 1. 유형 문제집의 난이도는 easy(Bronze ~ Silver II), normal(Silver I ~ Gold III), hard(Gold II ~) 로 이루어져있고, 따로 난이도 구분을 하지 않은 문제집은 기초 구현 문제집을 제외하고 모두 코딩테스트 난이도 (normal) 수준으로 구성되어 있습니다.
